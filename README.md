@@ -27,4 +27,4 @@ This project explores 2 methods to compute the similarity search from an initial
 ![Texte alternatif](/assets/PCAGMM.png "Titre de l'image")
 
 The other one is using FAISS, a powerful vector search library created by Facebook AI and that uses ANN and other tricks to perform vector similarity search in an efficient way 
-![Texte alternatif](/assets/FAISS.png "Titre de l'image")
+![Texte alternatif](/assets/FAISS2.png "Titre de l'image")
