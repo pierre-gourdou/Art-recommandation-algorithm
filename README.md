@@ -20,4 +20,4 @@ The first step will be to embed all the artworks into a vector space using CLIP 
 
 ### Embedding 
 The embedding is made using CLIP, a powerful pre-trained autoencoder. 
-/assets/embedding.png
+![Texte alternatif](/assets/embedding.png "Titre de l'image")
